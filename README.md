@@ -20,7 +20,7 @@ The main dependencies are:
 
 The model is trained and evaluated on the ERA5 reanalysis dataset, which is publicly available.
 
-You can access and download the ERA5 data from the ECMWF Climate Data Store:
+You can access and download the WeatherBench data from:
 [**WeatherBench Dataset**](https://mediatum.ub.tum.de/1524895)
 
 ## 3. How to Run
