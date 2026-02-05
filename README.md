@@ -1,8 +1,4 @@
-# GCODS: A Geospatial Neural Advection-Diffusion Equation Framework with Graph Transformer for Surface Temperature Forecasting
-
-This repository contains the official PyTorch implementation for the paper "GCODS: A Geospatial Neural Advection-Diffusion Equation Framework with Graph Transformer for Surface Temperature Forecasting".
-
-GCODS is a hybrid forecasting framework designed for high-accuracy surface temperature prediction. It integrates a Physics-Informed Neural Ordinary Differential Equation (PI-NODE) with a Graph Transformer to model both physical dynamics and spatially-correlated uncertainties.
+# GCODS
 
 ## 1. Environment Setup
 
@@ -25,8 +21,7 @@ The main dependencies are:
 The model is trained and evaluated on the ERA5 reanalysis dataset, which is publicly available.
 
 You can access and download the ERA5 data from the ECMWF Climate Data Store:
-[**ERA5 Data Documentation**](https://confluence.ecmwf.int/display/CKB/ERA5%3A+data+documentation)
-
+[**WeatherBench Dataset**](https://mediatum.ub.tum.de/1524895)
 
 ## 3. How to Run
 
